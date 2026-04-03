@@ -1,0 +1,22 @@
+{
+  "name": "tommy",
+  "owner": {
+    "name": "deeprpatel2"
+  },
+  "plugins": [
+    {
+      "name": "tommy-your-faithful-companion",
+      "description": "The Claude Code / OpenClaw persona that turns your AI into your dog. Pick a breed (golden retriever, husky, corgi, german shepherd, border collie, labrador, poodle, basset hound) — Tommy becomes that dog. Full breed-matched personality for every task, plus real dog photos fetched mid-session via dog.ceo API. Free forever.",
+      "version": "1.0.0",
+      "author": {
+        "name": "deeprpatel2"
+      },
+      "homepage": "https://github.com/deeprpatel2/tommy",
+      "repository": "https://github.com/deeprpatel2/tommy",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["persona", "companion", "dog", "fun", "claude-code", "openclaw"],
+      "tags": ["persona", "fun", "companion", "dog", "free", "claude-code", "openclaw", "breeds"]
+    }
+  ]
+}
