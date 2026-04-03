@@ -1,0 +1,13 @@
+# Generated files
+tommy_cover.png
+generate_tommy_cover.py
+*.zip
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# macOS
+.DS_Store
